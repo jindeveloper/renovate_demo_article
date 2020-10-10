@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/jindeveloper/renovate_demo_article#readme",
   "dependencies": {
-    "ansi-colors": "^4.0.0"
+    "ansi-colors": "^4.0.0",
+    "i": "^0.3.6",
+    "isarray": "0.0.1",
+    "npm": "^6.14.8"
   }
 }
