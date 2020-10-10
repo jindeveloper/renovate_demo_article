@@ -13,6 +13,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bin":{
+    "hello": "index.js"
+  },
   "bugs": {
     "url": "https://github.com/jindeveloper/renovate_demo_article/issues"
   },
