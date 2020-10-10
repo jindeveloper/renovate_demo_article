@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/jindeveloper/renovate_demo_article#readme",
   "dependencies": {
-    "ansi-colors": "^3.2.4"
+    "ansi-colors": "^4.0.0"
   }
 }
