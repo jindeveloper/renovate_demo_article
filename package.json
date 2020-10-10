@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'build script executed'"
   },
   "repository": {
     "type": "git",
@@ -13,9 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bin":{
-    "hello": "index.js"
-  },
   "bugs": {
     "url": "https://github.com/jindeveloper/renovate_demo_article/issues"
   },
